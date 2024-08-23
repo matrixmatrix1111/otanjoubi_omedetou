@@ -112,7 +112,7 @@ HERO
     content: '';
     width: 50%;
     height: 100vh;
-    background: url("../main.jpg") no-repeat center / cover;
+    background: url('../main.jpg') no-repeat center / cover;
     position: absolute;
     inset: 0;
 }
