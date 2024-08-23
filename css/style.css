@@ -198,7 +198,7 @@ SHOP INFO
     height: 40rem;
 }
 .shop-content {
-    background: 
+    background: var(--white);
     padding: 3rem;
     position: absolute;
     top: -8rem;
