@@ -54,7 +54,7 @@ GENERAL STYLING
 ================================================ */
 body {
     color: var(--brown);
-    background: url('bg-shadow.jpg') no-repeat right bottom / cover fixed;
+    background: url('../bg-shadow.jpg') no-repeat right bottom / cover fixed;
     text-align: center;
     margin: 0 auto;
     width: 1400px
@@ -112,7 +112,7 @@ HERO
     content: '';
     width: 50%;
     height: 100vh;
-    background: url("main.jpg") no-repeat center / cover;
+    background: url("../main.jpg") no-repeat center / cover;
     position: absolute;
     inset: 0;
 }
@@ -191,7 +191,7 @@ GALLERY
 SHOP INFO
 ================================================ */
 .shop {
-    background: url('1F6CF9F3-5529-4650-8EDA-44441C60CA60-コピー.jpg.jpg') no-repeat center top / cover;
+    background: url('../1F6CF9F3-5529-4650-8EDA-44441C60CA60-コピー.jpg.jpg') no-repeat center top / cover;
     margin-top: 16rem;
     position: relative;
     height: 40rem;
