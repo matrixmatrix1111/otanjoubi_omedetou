@@ -108,6 +108,7 @@ HERO
     height: 100vh;
     position: relative;
 }
+
 .hero::after {
     content: '';
     width: 50%;
